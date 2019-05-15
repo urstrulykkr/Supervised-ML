@@ -1,2 +1,2 @@
 # Supervised-ML
-A practical guide for supervised Statistical Learning.
+My keep book for supervised Statistical Learning.
