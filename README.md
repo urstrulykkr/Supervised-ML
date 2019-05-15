@@ -1,2 +1,2 @@
 # Supervised-ML
-A practical guide for supervised machine learning algos.
+A practical guide for supervised Statistical Learning.
